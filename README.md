@@ -1,5 +1,8 @@
 *"I love Dogs...but cats are cool too!"*
 ---
+![TerminalGIF](/terminal.gif)
+
+---
 ### About Me:
 - **Occupation**: (Desktop) Application Developer
 - **Languages**: C# (.NET), Python, HTML/CSS/JS, Lua
