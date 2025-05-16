@@ -12,4 +12,6 @@
 
 ---
 
-![SpinFumoGIF](/knrel3oet9ia1.gif)
+<p align="center">
+  <img src="/knrel3oet9ia1.gif" width="300" />
+</p>
