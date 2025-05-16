@@ -9,3 +9,7 @@
 - **Interests**: [GUI Programming](https://github.com/iLollek/CTkVisualizer), [Game Modding](https://github.com/iLollek/NRPFarMod) and Ethical Hacking
 ---
 ![Metrics](/github-metrics.svg)
+
+---
+
+![SpinFumoGIF](/knrel3oet9ia1.gif)
