@@ -1,6 +1,6 @@
 *"I love Dogs...but cats are cool too!"*
 ---
-![TerminalGIF](/terminal.gif)
+![MangaPanel](0038021591_100.png)
 
 ---
 ### About Me:
