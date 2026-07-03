@@ -16,6 +16,7 @@
 * [Aerochat](https://github.com/not-nullptr/Aerochat) - A native Discord client inspired by the Windows Live Messenger 2009 design. I mainly contribute through feature implementations, bug fixes, and general project maintenance.
 * [Hazeolation's Streaming-Tool](https://github.com/hazeolation/Streaming-Tool) - A fully interactive stream overlay platform. As a CODEOWNER, I review pull requests, manage code quality, and actively work on feature requests, bug reports, and issue resolution.
 * [Airsoft-Verzeichnis (ASVZ)](https://airsoft-verzeichnis.de) - Germany's largest Airsoft community platform. I collaborate closely with the owner, [papa-bear](https://www.airsoft-verzeichnis.de/index.php?status=mitglied&nummer=000002), to develop new features, resolve bugs, improve internal team management processes, and enhance project documentation.
+* [Fidget Fortune](https://made-of-clay-games.itch.io/fidget-fortune) - A small Video Game I made with a few friends for [The Very Serious Juniper Dev Game Jam](https://itch.io/jam/theveryseriousjuniperdevgamejam)
 
 
 ---
